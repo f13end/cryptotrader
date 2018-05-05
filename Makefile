@@ -29,3 +29,4 @@ dist:
 			cp ../README.md $$d; \
 			zip -r $$d.zip $$d; \
 		done
+
